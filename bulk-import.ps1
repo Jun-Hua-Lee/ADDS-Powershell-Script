@@ -1,4 +1,4 @@
- # Import Active Directory module for running AD cmdlets
+# Import Active Directory module for running AD cmdlets
 Import-Module ActiveDirectory
 
 # Store the data from NewUsersFinal.csv in the $ADUsers variable
